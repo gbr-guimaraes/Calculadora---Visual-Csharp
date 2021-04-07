@@ -1,0 +1,14 @@
+D:\Users\gabri\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\Users\gabri\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\Users\gabri\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+D:\Users\gabri\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+D:\Users\gabri\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\Users\gabri\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+D:\Users\gabri\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\Users\gabri\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\Users\gabri\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+D:\Users\gabri\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.manifest
+D:\Users\gabri\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.application
+D:\Users\gabri\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.TrustInfo.xml
+D:\Users\gabri\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe.manifest
+D:\Users\gabri\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.application
